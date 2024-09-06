@@ -53,7 +53,12 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/agathaferreiraa/agathaferreiraa/output/snake.svg)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
+
+<br clear="both">
+
+![Snake animation](https://raw.githubusercontent.com/agathaferreiraa/agathaferreiraa/output/snake.svg)
 
 ###
