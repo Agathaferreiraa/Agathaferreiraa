@@ -1,4 +1,18 @@
-<h2 align="left">Olá 👋🏽! Meu nome é Ágatha e sou uma desenvolvedora web. Atualmente, estou cursando Gestão da Tecnologia da Informação e criando projetos focados no desenvolvimento web, com destaque para as tecnologias front-end como HTML, CSS e JavaScript. Adoro explorar maneiras criativas de transformar ideias em código. No momento, estou trabalhando em projetos pessoais e aprimorando meus conhecimentos em C# e .NET.</h2>
+<h2 align="left">Olá 👋🏽! Meu nome é Ágatha e sou uma desenvolvedora apaixonada por transformar ideias em soluções que funcionam de verdade 💻✨
+
+Atualmente curso Gestão da Tecnologia da Informação e atuo como estagiária de desenvolvimento na SPObras, onde venho aplicando meus conhecimentos com C#, .NET MVC, Entity Framework e SQL Server em projetos internos de verdade, aprendendo na prática como o back-end pode mudar o fluxo de uma empresa.
+
+Meu foco atual é o **desenvolvimento back-end**, mas tenho também uma base sólida em HTML, CSS e Bootstrap, que utilizo para complementar algumas entregas.
+
+Aqui no GitHub, compartilho meus projetos pessoais e estudos, sempre buscando evoluir, aprender mais e codar com propósito. 
+
+🌱 Tecnologias que estudo e utilizo:
+- C# | .NET MVC | Entity Framework | SQL Server
+- Git | GitHub | HTML | CSS | Bootstrap
+- Explorando: Azure e boas práticas de versionamento
+
+Se quiser acompanhar minha jornada ou trocar ideias, seja bem-vindo(a)! 🚀
+</h2>
 
 ###
 
@@ -13,16 +27,38 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  
+  <!-- SQL Server (representado como database) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+  <img width="12" />
+  
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  
+  <!-- Sass (opcional, se ainda usar) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" />
 </div>
+
 
 ###
 
