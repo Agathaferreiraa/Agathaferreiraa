@@ -31,6 +31,10 @@ Se quiser acompanhar minha jornada ou trocar ideias, seja bem-vindo(a)! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
   
+    <!-- .NET (imagem externa) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="30" alt=".NET logo" />
+  <img width="12" />
+  
   <!-- SQL Server (representado como database) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
   <img width="12" />
@@ -42,6 +46,13 @@ Se quiser acompanhar minha jornada ou trocar ideias, seja bem-vindo(a)! 🚀
   <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
+
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind css logo" />
+  <img width="12" />
+  
+   <!-- Sass (opcional, se ainda usar) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" />
   
   <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
@@ -53,10 +64,8 @@ Se quiser acompanhar minha jornada ou trocar ideias, seja bem-vindo(a)! 🚀
   
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  
-  <!-- Sass (opcional, se ainda usar) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" />
+  <img width="12" />  
+ 
 </div>
 
 
